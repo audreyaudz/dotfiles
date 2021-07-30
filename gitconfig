@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = audz@kon.sg
+	name = Audrey Kon
